@@ -23,7 +23,7 @@
                 return false;
               }
           } else {
-            
+            mapb.set(t[i], s[i])
           }
       }
   };
