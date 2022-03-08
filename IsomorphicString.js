@@ -36,6 +36,7 @@
   - Create two maps, one for each string.
   - Iterate through each character in the first string, and check if the character is in the map.
   - If it is, we check if the value of the character in the map is the same as the character in the second string.
+  - If it is, we continue to the next character.
   
 
   */
