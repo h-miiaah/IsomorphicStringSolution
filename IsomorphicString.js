@@ -22,6 +22,8 @@
             if (mapb.get(t[i]) !== s[i]) {
                 return false;
               }
-          } 
+          } else {
+            
+          }
       }
   };
