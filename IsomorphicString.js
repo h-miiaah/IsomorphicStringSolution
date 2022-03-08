@@ -34,6 +34,7 @@
   /*
 
   - Create two maps, one for each string.
+  - Iterate through each character in the first string, and check if the character is in the map.
   
 
   */
