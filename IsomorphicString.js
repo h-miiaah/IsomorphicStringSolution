@@ -14,6 +14,8 @@
             if (mapa.get(s[i]) !== t[i]) {
                 return false;
               }
-          } 
+          } else {
+            
+          }
       }
   };
