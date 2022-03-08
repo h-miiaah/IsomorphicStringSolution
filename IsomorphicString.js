@@ -33,6 +33,7 @@
 
   /*
 
+  - Create two maps, one for each string.
   
 
   */
