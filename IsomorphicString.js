@@ -40,6 +40,7 @@
   - If it isn’t, we return false.
   - If the character is not in the map, we add it to the map with the value of the character in the second string.
   - Do the same for the second string.
+  - If we make it through the entire loop, we return true.
   
 
   */
