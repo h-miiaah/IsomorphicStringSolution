@@ -7,4 +7,5 @@
     if (s.length !== t.length) return false;
 
     const mapa = new Map();
+    const mapb = new Map();
   };
