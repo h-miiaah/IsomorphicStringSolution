@@ -19,7 +19,9 @@
           }
 
           if (mapb.has(t[i])) {
-            
+            if (mapb.get(t[i]) !== s[i]) {
+                
+              }
           } 
       }
   };
