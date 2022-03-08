@@ -15,7 +15,7 @@
                 return false;
               }
           } else {
-            
+            mapa.set(s[i], t[i])
           }
       }
   };
