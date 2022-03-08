@@ -39,6 +39,7 @@
   - If it is, we continue to the next character.
   - If it isn’t, we return false.
   - If the character is not in the map, we add it to the map with the value of the character in the second string.
+  - Do the same for the second string.
   
 
   */
