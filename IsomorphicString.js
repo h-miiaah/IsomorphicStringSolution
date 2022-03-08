@@ -17,5 +17,9 @@
           } else {
             mapa.set(s[i], t[i])
           }
+
+          if (mapb.has(t[i])) {
+            
+          } 
       }
   };
