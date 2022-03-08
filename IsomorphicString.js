@@ -26,4 +26,6 @@
             mapb.set(t[i], s[i])
           }
       }
+
+      return true
   };
