@@ -12,7 +12,7 @@
     for (let i = 0; i < s.length; i++) {
         if (mapa.has(s[i])) {
             if (mapa.get(s[i]) !== t[i]) {
-                
+                return false;
               }
           } 
       }
