@@ -8,4 +8,8 @@
 
     const mapa = new Map();
     const mapb = new Map();
+
+    for (let i = 0; i < s.length; i++) {
+        
+      }
   };
